@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj": {}
+  },
+  "projects": {
+    "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
+        "projectName": "StopWatch",
+        "projectPath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
+        "packagesPath": "/Users/vishwanathkota/.nuget/packages/",
+        "outputPath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/vishwanathkota/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "RSKImageCropper": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Xamarians.CropImage": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.TOCropView": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ToobnBhubwMnrOF0cNjb1iynSbc/EgdewT0SJ/nd2gZBpZV6o26yGvNvxq83LU+/aGbZsP0phHd34SXJJFGvA==",
+  "success": true,
+  "projectFilePath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
+  "expectedPackageFiles": [
+    "/Users/vishwanathkota/.nuget/packages/rskimagecropper/2.2.1/rskimagecropper.2.2.1.nupkg.sha512",
+    "/Users/vishwanathkota/.nuget/packages/xamarians.cropimage/1.0.6/xamarians.cropimage.1.0.6.nupkg.sha512",
+    "/Users/vishwanathkota/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/vishwanathkota/.nuget/packages/xamarin.tocropview/1.2.0/xamarin.tocropview.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

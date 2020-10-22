@@ -1,0 +1,15 @@
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_PartialAppManifest.items
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_PartialAppManifest.items
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/optimized/
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csprojAssemblyReference.cache
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csproj.CoreCompileInputs.cache
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/bin/iPhoneSimulator/Debug/StopWatch.exe
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/bin/iPhoneSimulator/Debug/StopWatch.pdb
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csproj.CopyComplete
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.exe
+/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.pdb

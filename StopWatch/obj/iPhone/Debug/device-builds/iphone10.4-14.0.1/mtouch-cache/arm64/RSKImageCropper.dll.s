@@ -3079,7 +3079,7 @@ ldr x16, [x16, #488]
 .word 0xf94013a1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf9410030
+.word 0xf9410830
 .word 0xd63f0200
 .word 0xaa0003f9
 .word 0xf94017b1
@@ -3221,7 +3221,7 @@ bl _p_11
 .word 0xaa0203e0
 .word 0xaa1803e1
 .word 0xf9400042
-.word 0xf940fc50
+.word 0xf9410450
 .word 0xd63f0200
 .word 0xf94017b1
 .word 0xf9418231
@@ -17726,13 +17726,13 @@ _mono_aot_file_info:
 	.quad unbox_trampoline_addresses
 
 	.long 222,2528,94,179,15,102,387000831,0
-	.long 26418,128,8,8,8,9,8388607,0
-	.long 4,25,28504,0,0,2080,1808,928
+	.long 26434,128,8,8,8,9,8388607,0
+	.long 4,25,28520,0,0,2080,1808,928
 	.long 0,1408,1752,1096,0,752,264,2072
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 97,74,96,13,106,207,233,211,25,61,192,34,91,136,35,50
+	.byte 137,210,214,127,234,125,104,120,199,154,199,41,226,18,90,43
 	.globl _mono_aot_module_RSKImageCropper_info
 	.align 3
 _mono_aot_module_RSKImageCropper_info:

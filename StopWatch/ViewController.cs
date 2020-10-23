@@ -39,13 +39,19 @@ namespace StopWatch
         List<UIColor> colr = new List<UIColor>();
         UIScrollView sclView = new UIScrollView();
 
-        public DateTime exitTime = new DateTime();
+        public DateTime exitTime;
+        public DateTime startTime; 
 
         public ViewController(IntPtr handle) : base(handle)
         {
-           
-        }
 
+        }
+        /*
+            public ViewController(DateTime t)
+            {
+                exitTime = t;
+            }
+        */
         public override async void ViewDidLoad()
         {
             base.ViewDidLoad();
@@ -54,7 +60,7 @@ namespace StopWatch
             //statusBarView.BackgroundColor = UIColor.Green;
 
             //Fetching photos from photos apps and storing it in "fetchedImages" array
-            fetchImagesFromPhotosApp();
+            //fetchImagesFromPhotosApp();
             dragImage = new UIImageView();
             dragImage.Image = UIImage.FromBundle("car1");
 
@@ -87,12 +93,58 @@ namespace StopWatch
             NSNotificationCenter.DefaultCenter.AddObserver(new NSString("ChangeName"), getExistingData);
             NSNotificationCenter.DefaultCenter.AddObserver(new NSString("ChangeImage"), getExistingImageData);
             NSNotificationCenter.DefaultCenter.AddObserver(new NSString("CroppedImage"), getCroppedImage);
+            string exitTimeStr1 = NSUserDefaults.StandardUserDefaults.StringForKey("ExitTime");
+            NSUserDefaults.StandardUserDefaults.RemoveObject("ExitTime");
+            string exitTimeStr = NSUserDefaults.StandardUserDefaults.StringForKey("ExitTime");
+            /*
+            var prefs = NSUserDefaults.StandardUserDefaults;
+            NSDictionary dic = prefs.ToDictionary();
+            foreach (object key in dic.Keys)
+            {
+                prefs.RemoveObject(key.ToString());
+            }
+            */
         }
 
-        public override void ViewWillAppear(bool animated)
+        public override void ViewDidAppear(bool animated)
         {
             base.ViewWillAppear(animated);
-            Console.WriteLine("Lap button exit time//: " + exitTime);
+            //Console.WriteLine("Lap button exit time: " + exitTime);
+            string exitTimeStr = NSUserDefaults.StandardUserDefaults.StringForKey("ExitTime");
+            //Console.WriteLine("user defaults value: " + exitTimeStr);
+            if (exitTimeStr != null)
+            {
+                exitTime = Convert.ToDateTime(exitTimeStr);
+
+                //var startDateTime = startTime.ToString("dd-mm-yyyy HH:mm:ss");
+                //var exitDateTime = exitTime.ToString("dd-mm-yyyy HH:mm:ss");
+
+                var startDateTime = string.Format("{0}-{1}-{2} {3}:{4}:{5}.{6}", startTime.Day, startTime.Month, startTime.Year, startTime.Hour, startTime.Minute, startTime.Second, startTime.Millisecond);
+                var exitDateTime = string.Format("{0}-{1}-{2} {3}:{4}:{5}.{6}", exitTime.Day, exitTime.Month, exitTime.Year, exitTime.Hour, exitTime.Minute, exitTime.Second, exitTime.Millisecond);
+
+                //fetchPhotosInRange(DateTime.Parse("14-10-2020 11:00:00"), DateTime.Parse("17-10-2020 18:38:00"));//dd-mm-yyyy HH:mm:ss
+                Console.WriteLine("Exit time: " + exitTime);
+                Console.WriteLine("Formatted Exit time: " + exitDateTime);
+                Console.WriteLine("-------------------------------------");
+                Console.WriteLine("Start Time: " + startTime);
+                Console.WriteLine("Formatted start time: " + startDateTime);
+
+                Console.WriteLine(imagesTakenTimes.Count);
+                Console.WriteLine(fetchedImages.Count);
+
+
+                //int value = DateTime.Compare(exitTime, startTime);
+                var duration = exitTime - startTime;
+                if (duration.Minutes > 0 || duration.Seconds > 0)
+                {
+                    fetchedImages.Clear();
+                    imagesTakenTimes.Clear();
+                    fetchPhotosInRange(DateTime.Parse(startDateTime), DateTime.Parse(exitDateTime));
+                    sclView.RemoveFromSuperview();
+                    NSUserDefaults.StandardUserDefaults.StringForKey("ExitTime");
+                    scrlView(fetchedImages.Count);
+                }
+            }
         }
 
         void scrlView(int count)
@@ -529,6 +581,7 @@ namespace StopWatch
             CustomCameraViewController ccvc = Storyboard.InstantiateViewController("CustomCameraViewController") as CustomCameraViewController;
             ccvc.ModalPresentationStyle = UIModalPresentationStyle.FullScreen;
             Console.WriteLine("Lap button cliked at: " + DateTime.Now);
+            startTime = DateTime.Now;
             PresentViewController(ccvc, true, null);
         }
 
@@ -683,7 +736,7 @@ namespace StopWatch
                 {
                     var asset = fetchResults.ObjectAt(i) as PHAsset;
                     var time = asset.CreationDate;
-
+                    Console.WriteLine("Time taken: " + time);
                     var val1 = ConvertNsDateToDateTime(time);
 
                     int result = DateTime.Compare(val1, startDate);
@@ -716,14 +769,21 @@ namespace StopWatch
                 Console.WriteLine(fetchedImages.Count);
             }
         }
-
+        /*
         public DateTime ConvertNsDateToDateTime(NSDate date)
         {
             DateTime newDate = TimeZone.CurrentTimeZone.ToLocalTime(
                 new DateTime(2001, 1, 1, 0, 0, 0));
             return newDate.AddSeconds(date.SecondsSinceReferenceDate);
         }
-        
+        */
+        public DateTime ConvertNsDateToDateTime(Foundation.NSDate date)
+        {
+            DateTime reference = new DateTime(2001, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc);
+            var utcDateTime = reference.AddSeconds(date.SecondsSinceReferenceDate);
+            return utcDateTime.ToLocalTime();
+        }
+
         public void getExistingData(NSNotification notification)
         {
             Console.WriteLine("Testing");

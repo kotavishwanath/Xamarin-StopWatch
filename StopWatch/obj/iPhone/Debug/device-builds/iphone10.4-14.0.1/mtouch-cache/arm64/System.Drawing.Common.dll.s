@@ -357,7 +357,7 @@ bl _p_1
 .word 0x910003bf
 .word 0xa8c47bfd
 .word 0xd65f03c0
-.word 0xd2801000
+.word 0xd2800fe0
 .word 0xaa1103e1
 bl _p_2
 
@@ -946,7 +946,7 @@ bl _p_8
 .word 0x910003bf
 .word 0xa8c37bfd
 .word 0xd65f03c0
-.word 0xd2801000
+.word 0xd2800fe0
 .word 0xaa1103e1
 bl _p_2
 
@@ -1514,7 +1514,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 74,21,56,173,167,232,174,123,71,174,188,163,80,214,91,72
+	.byte 172,197,250,229,79,132,76,27,114,200,6,171,121,252,76,135
 	.globl _mono_aot_module_System_Drawing_Common_info
 	.align 3
 _mono_aot_module_System_Drawing_Common_info:

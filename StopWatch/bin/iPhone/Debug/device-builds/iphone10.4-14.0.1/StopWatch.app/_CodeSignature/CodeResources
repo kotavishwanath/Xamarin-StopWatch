@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropper</key>
 		<data>
-		OVBbYLzCTxGZChUlT0H6jYtiWX0=
+		SzxDNCl84+AfLLBfWrs9K5eKd6s=
 		</data>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropperStrings.bundle/ar.lproj/RSKImageCropper.strings</key>
 		<dict>
@@ -511,19 +511,19 @@
 		</data>
 		<key>Main.storyboardc/1918-view-1919.nib</key>
 		<data>
-		uJ5C3I8J6x70/03JzWEsx6dgK0I=
+		fmkW7sP/9bWN6IBiH+S0QkNdhzM=
 		</data>
 		<key>Main.storyboardc/6892-view-6893.nib</key>
 		<data>
-		58Nl+Fx2sJFlNvui89AH49ZLSjY=
+		4wn+W2Ir2kgshr8RgXqLaJPOkJo=
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		mS7X4ln/LW/F7D+cvPOgz/9mDlk=
+		8L8t3tL4rfQ/Dsi4KMDLoe8nsVg=
 		</data>
 		<key>Main.storyboardc/CustomCameraViewController.nib</key>
 		<data>
-		q/8hjwNmM2Ro/d0da3paDQEcA0o=
+		e1sgf9NPQwpREPDQCjwuGXE1t1k=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -531,15 +531,15 @@
 		</data>
 		<key>Main.storyboardc/SettingsViewController.nib</key>
 		<data>
-		HtSQwYbRAgBY57Xp5rRmUxWYwgg=
+		q+HNSgII/ikZN7PQMZoOFI/t9nY=
 		</data>
 		<key>Main.storyboardc/UINavigationController-213.nib</key>
 		<data>
-		hot2gFoDEEbCApX/zLpwZdTX5qE=
+		fBK6Y0N32z6VuM36Wp/XVqRdRxs=
 		</data>
 		<key>Main.storyboardc/ViewController.nib</key>
 		<data>
-		UpzH31FViZNN5hheEw7fbcLteWc=
+		htdbLKBXNDikHaGTW40woXrZIGo=
 		</data>
 		<key>MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -555,7 +555,7 @@
 		</data>
 		<key>RSKImageCropper.aotdata.arm64</key>
 		<data>
-		nGYyB1/Hos9s/657jVA+q/niZeA=
+		g1ABBqlobK7S2hQ0m7T0hIDeNF4=
 		</data>
 		<key>RSKImageCropper.dll</key>
 		<data>
@@ -567,19 +567,19 @@
 		</data>
 		<key>StopWatch.aotdata.arm64</key>
 		<data>
-		+T+9gDHXRVZVDh5lBG0UWfHKqiE=
+		CnH8CCqW/8oEyKAMUlerlZiyquk=
 		</data>
 		<key>StopWatch.exe</key>
 		<data>
-		LjsuLdrwNYFsvP7f4rxympr46oY=
+		zGtReBshJo+uhXzthkA4vg/ZmtM=
 		</data>
 		<key>StopWatch.pdb</key>
 		<data>
-		RkShLSdq0PUHlS9P8kGbMeNFIXE=
+		UDYB/vGTnjS+CglOg6pmyflPWtA=
 		</data>
 		<key>System.Drawing.Common.aotdata.arm64</key>
 		<data>
-		zC+NzeSHv+tuepxlkcbewSSOV/Q=
+		nCXQN3jFNUhXKwRnqshUrL+QsIg=
 		</data>
 		<key>System.Drawing.Common.dll</key>
 		<data>
@@ -587,7 +587,7 @@
 		</data>
 		<key>System.aotdata.arm64</key>
 		<data>
-		7xVJpe9OnZIBzR3bhRG8LfBUL+A=
+		4YwM+BLUgeH/kY8XhlVIqrkWNvw=
 		</data>
 		<key>System.dll</key>
 		<data>
@@ -599,7 +599,7 @@
 		</data>
 		<key>TOCropViewController.aotdata.arm64</key>
 		<data>
-		47qLLQmaDZmyqhYBgb51ZN0X7Ac=
+		6FBNed8BNZbPduyQ0jyHNKg7MOc=
 		</data>
 		<key>TOCropViewController.dll</key>
 		<data>
@@ -607,15 +607,15 @@
 		</data>
 		<key>Xamarin.iOS.aotdata.arm64</key>
 		<data>
-		/FpjYmqAsgANTpvPA9xQjxB+Zbs=
+		oHeQzdMVjY2PJEOL4xNpHk0CW2M=
 		</data>
 		<key>Xamarin.iOS.dll</key>
 		<data>
-		ZU4IRRkYuRqvUkqXJDNFoivXvio=
+		GIaA/oZVeWfrX65QxzzuYmzCGfM=
 		</data>
 		<key>Xamarin.iOS.pdb</key>
 		<data>
-		OI5SRtQ3fK4yau9HrAEbmR+Pqso=
+		+IhchE3Klr36Q/BBrLC8VguUrYs=
 		</data>
 		<key>archived-expanded-entitlements.xcent</key>
 		<data>
@@ -627,15 +627,15 @@
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
-		ZBhquFljH63+bVcThOcXZOxn/rM=
+		PnlVBIBRPRziVPKsg60MYLQ91A4=
 		</data>
 		<key>mscorlib.dll</key>
 		<data>
-		eLTg9fuFOi8VKzhFqEBaU3Hpzko=
+		W9wXkRATIbzUzhsBLl2oOJpCxA4=
 		</data>
 		<key>mscorlib.pdb</key>
 		<data>
-		BiOYCNXXgz8IvHP+ZTD8VuVzPgE=
+		9liGLKp0ox+uEwvtuo+zBG+m95E=
 		</data>
 		<key>packages.config</key>
 		<data>
@@ -771,7 +771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0pmXfpPNWunltZi9t/Kh9hHqAVPH33PxvvjH8TBySwc=
+			LLDZgmwIeHOCnaMwXcGf/6Io4M8ni2q2l/6ccXA+y4M=
 			</data>
 		</dict>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropperStrings.bundle/ar.lproj/RSKImageCropper.strings</key>
@@ -1218,28 +1218,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRkmjYqmkY0vAialVn+v1YMI8A8IuJC/ccmferCFJzc=
+			SxNGDO9AXNQFWFT9GQedA0Ee3E06r9QWxAIe3qtt29w=
 			</data>
 		</dict>
 		<key>Main.storyboardc/6892-view-6893.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/EYC81P6/qGPINcfLM5ilkgCNAZ8LZakK4SyLfQXSqs=
+			w3OLswl/FnAE703SaXFCVkh1FoCHfwAvzNUd7jr+8zo=
 			</data>
 		</dict>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9DaGNi2J/7JJ8jboQWZk94b6gn9xuynidcyql/KQb7g=
+			ZRdh1sdh7aGGn5wp4gNdM54s2HJ0vjgCsyIfDOEfLy4=
 			</data>
 		</dict>
 		<key>Main.storyboardc/CustomCameraViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DO28xhW8FrXO6tw4WPOl/o1JQzGGJSXT335ORXI6Ieo=
+			mp3T3TjQA5JZH6hId8J7xa8XBstsKpNt+UQsHk8jFSY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -1253,21 +1253,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LCrGWztOF6IzoJFTsoJADWI5q4tv74Za+gcvFD2XPB8=
+			U8sGwBEbj1l9CoOhK3Mb3MhZ5qi+gTjqSIwhoyqdL0s=
 			</data>
 		</dict>
 		<key>Main.storyboardc/UINavigationController-213.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ReGz1DhJ9dD8OGY2zww0s5Zthvaspa93zxpHMHEbbvQ=
+			ptnep2Yn+I6y29Q0eJhK5iU8bYCnKbFHeO/F91oEuvo=
 			</data>
 		</dict>
 		<key>Main.storyboardc/ViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lwPDAH/CkmhkGdhd+vsdbWAOQH6Wfj12MR99KGONxwk=
+			ZtNUsWi3BZqREeCPzfXzWxkIPgP7z65l7VXl56fbUb8=
 			</data>
 		</dict>
 		<key>MonoTouchDebugConfiguration.txt</key>
@@ -1288,7 +1288,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Heg9SK6kiXTaJDykmy4JAown3DQO1SruXVq3WLIwj74=
+			bIehpKyjIiV+YHtOgixocAveR3PRcDEOVTQ8O5xnenY=
 			</data>
 		</dict>
 		<key>RSKImageCropper.dll</key>
@@ -1309,28 +1309,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qINcWvJYaC6N7Ua+OpWaYhRsPw7d/9VueoDr4Q+P9eM=
+			u8WDR1vt2hn5HBNCPCrRXLSF2Ywvedt95vkFBA5NjsM=
 			</data>
 		</dict>
 		<key>StopWatch.exe</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mVuZXoSvgIxylTpGTWwu+RdJDknyr6zD7OWYuW1EeFw=
+			M49GV/hY/khWq1WgN0J1yoB1D4AfuW6qz30otRWKObI=
 			</data>
 		</dict>
 		<key>StopWatch.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F4q9A2jdIjd+VIGn/wGqZG608Xiun15WQqQ70e7i4UY=
+			bvwwZpy1GqUn5/Xdy4CX30LCC0QLAH1ZvIgoctSYnVE=
 			</data>
 		</dict>
 		<key>System.Drawing.Common.aotdata.arm64</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UE7zTi1M65GYZ8h4KNif/Ad9ehVKbMHdntFxnLokbVg=
+			rSvv9ptRpXihg+ZA0+WXNVsTxmhd2WFqaylTWNsaTKA=
 			</data>
 		</dict>
 		<key>System.Drawing.Common.dll</key>
@@ -1344,7 +1344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFdHdPT05lx//S11jiuWZxnp7zPExyFPjiYFO3DOQPM=
+			UUnzHnwbiPAK/YEGTkO82PPa6ANV42ficcFSYjNPxjA=
 			</data>
 		</dict>
 		<key>System.dll</key>
@@ -1365,7 +1365,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iSawKLtD967KgzWW4dz1uPOXffYK2dUewr8kM6Oe9Fc=
+			0qC3QdY0pCzFnertJvioagR0VyI8CIR7Yy9h7qrK/0g=
 			</data>
 		</dict>
 		<key>TOCropViewController.dll</key>
@@ -1379,21 +1379,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6NgnT1yiJZ/bcIpy36BG0YIsLxciRXnD8uP6lrHclNg=
+			t0Jl9QumilX5ZWVyD+BPLLmiZiSg/k7m7K6VfVFjE5s=
 			</data>
 		</dict>
 		<key>Xamarin.iOS.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NaWlXnsmUIp0soi6YT0NEALEUvrPeicF1R97m7KhHJQ=
+			sK6l5K+8zoqve4cwnJlffGJxiiRYZuASlPKPDtM9qAA=
 			</data>
 		</dict>
 		<key>Xamarin.iOS.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WgjiCizNQqVy4S+1uU/qIQct4GdqNstNerzP8lgRvDs=
+			HyuZjBqHhAiv0gBcp7r6HAZ7O7PTDpSu91FaCscV3Xw=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
@@ -1414,21 +1414,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0a5BBOzeTAZuOuK8J2Em855xaqDHOlpWG4hqUV6P+dI=
+			QJsRndmm3/3U9YR6MX94zjhXfzD3Y5bmDlIUmx/k3EQ=
 			</data>
 		</dict>
 		<key>mscorlib.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			no3MzTSYBk3HA5qmF09h8idJkP6AiDza85yj0zre7jQ=
+			Cw9nUWd+2nQ49rFZlrXJJ8OQnqUpQslGoYnsEbr8TXA=
 			</data>
 		</dict>
 		<key>mscorlib.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTGu911+Nm4+ZQKluY+Y7FgcVyLPqp/m9PUeHBWbKyE=
+			apiLGd3ug0C1Oae+jXgfAjAWb+N/sWybJv34dA2/gQo=
 			</data>
 		</dict>
 		<key>packages.config</key>

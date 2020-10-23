@@ -238,6 +238,7 @@
 	-(UIButton *) undoRedoButton;
 	-(void) setUndoRedoButton:(UIButton *)p0;
 	-(void) viewDidLoad;
+	-(void) viewDidAppear:(BOOL)p0;
 	-(void) didReceiveMemoryWarning;
 	-(void) tableView:(UITableView *)p0 performDropWithCoordinator:(id)p1;
 	-(NSArray *) dragInteraction:(UIDragInteraction *)p0 itemsForBeginningSession:(id)p1;

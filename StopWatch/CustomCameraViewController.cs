@@ -29,7 +29,7 @@ namespace StopWatch
             setupCapturButton();
 
             var doneButton = new UIButton();
-            doneButton.Frame = new CGRect(UIScreen.MainScreen.Bounds.Width - 100, UIScreen.MainScreen.Bounds.Height - 105, 90, 60);
+            doneButton.Frame = new CGRect(UIScreen.MainScreen.Bounds.Width - 100, UIScreen.MainScreen.Bounds.Height - 85, 90, 40);
             doneButton.SetTitle("Done", UIControlState.Normal);
             doneButton.SetTitleColor(UIColor.Black, UIControlState.Normal);
             doneButton.Font = UIFont.BoldSystemFontOfSize(19);
@@ -40,18 +40,58 @@ namespace StopWatch
             doneButton.BackgroundColor = UIColor.White;
             doneButton.TouchUpInside += async (sender, e) =>
             {
+                string dateStr = DateTime.Now.ToString();
+                //string asString = now.ToString("dd MMMM yyyy hh:mm:ss tt");
+                //NSUserDefaults.StandardUserDefaults.SetValueForKey(dateStr, "ExitTime");
+                //NSUserDefaults.StandardUserDefaults.Synchronize();
+
+                NSUserDefaults values = new NSUserDefaults();
+                values.SetString(dateStr, "ExitTime");
                 this.DismissViewController(true, null);
             };
             View.AddSubview(doneButton);
-        }
 
+            var cancelButton = new UIButton();
+            cancelButton.Frame = new CGRect(10, UIScreen.MainScreen.Bounds.Height - 85, 90, 40);
+            cancelButton.SetTitle("Cancel", UIControlState.Normal);
+            cancelButton.SetTitleColor(UIColor.Red, UIControlState.Normal);
+            cancelButton.Font = UIFont.BoldSystemFontOfSize(19);
+            cancelButton.Layer.BorderColor = UIColor.White.CGColor;
+            cancelButton.Layer.BorderWidth = 2;
+            cancelButton.Layer.CornerRadius = 5;
+
+            cancelButton.BackgroundColor = UIColor.White;
+            cancelButton.TouchUpInside += async (sender, e) =>
+            {
+                this.DismissViewController(true, null);
+            };
+            View.AddSubview(cancelButton);
+        }
+        /*
+        public override void ViewWillDisappear(bool animated)
+        {
+            base.ViewWillDisappear(animated);
+            Console.WriteLine("Camera capture VC:- ViewWillDisappear");
+            //ViewController ndd = this.Storyboard.InstantiateViewController("ViewController") as ViewController;
+
+            //ViewController vc = this.Storyboard.InstantiateViewController("ViewController") as ViewController;
+            //vc.exitTime = DateTime.Now;
+            string dateStr = DateTime.Now.ToString();
+                //string asString = now.ToString("dd MMMM yyyy hh:mm:ss tt");
+            //NSUserDefaults.StandardUserDefaults.SetValueForKey(dateStr, "ExitTime");
+            //NSUserDefaults.StandardUserDefaults.Synchronize();
+
+            NSUserDefaults values = new NSUserDefaults();
+            values.SetString(dateStr, "ExitTime");
+        }
+        */
         private void setupCapturButton()
         {
             var scrrenWidth = UIScreen.MainScreen.Bounds.Width;
             var screenheight = UIScreen.MainScreen.Bounds.Height;
 
             var capture = new UIButton();
-            capture.Frame = new CGRect((scrrenWidth / 2) - 25, screenheight - 100, 50, 50);
+            capture.Frame = new CGRect((scrrenWidth / 2) - 25, screenheight - 95, 60, 60);
             capture.BackgroundColor = UIColor.White;
             capture.SetTitle("Capture", UIControlState.Normal);
             capture.Layer.BorderColor = UIColor.Black.CGColor;
@@ -147,9 +187,8 @@ namespace StopWatch
 
         partial void BackBtn_TouchUpInside(UIButton sender)
         {
-            ViewController vc = new ViewController();
-            currentTime = DateTime.Now;
-            vc.exitTime = currentTime;
+            //ViewController vc = new ViewController();
+           
             DismissViewController(true, null);
         }
     }

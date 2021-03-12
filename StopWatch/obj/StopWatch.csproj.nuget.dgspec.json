@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj": {}
+    "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj": {}
   },
   "projects": {
-    "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj": {
+    "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
+        "projectUniqueName": "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
-        "packagesPath": "/Users/vishwanathkota/.nuget/packages/",
-        "outputPath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/",
+        "projectPath": "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj",
+        "packagesPath": "/Users/VishwanathKota/.nuget/packages/",
+        "outputPath": "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/vishwanathkota/.config/NuGet/NuGet.Config"
+          "/Users/VishwanathKota/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -47,6 +47,14 @@
             "Xamarin.TOCropView": {
               "target": "Package",
               "version": "[1.2.0, )"
+            },
+            "sqlite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{149A6892-3025-4FEF-A672-DCE3130E7F30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StopWatch/Controlls/ViewController.cs">
+    <Files>
+      <File FileName="StopWatch/Controlls/ViewController.cs" Line="265" Column="14" />
+      <File FileName="StopWatch/Models/CarsInfo.cs" />
+      <File FileName="StopWatch/Models/ImageTakenTime.cs" />
+      <File FileName="StopWatch/Main.cs" />
+      <File FileName="StopWatch/UserControlls/CarsListViewDataSource.cs" />
+      <File FileName="StopWatch/Info.plist" />
+      <File FileName="StopWatch/Controlls/SettingsViewController.cs" />
+      <File FileName="StopWatch/Views/CustomCameraViewController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StopWatch" expanded="True">
+            <Node name="StopWatch" expanded="True">
+              <Node name="Controlls" expanded="True">
+                <Node name="ViewController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="UserControlls" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StopWatch automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FD5C3D11-E468-43FD-B863-26EC7F88AE2B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="3PTZ5N85YX" TeamId="KBC4699ULJ" />
+  </MonoDevelop.Ide.ItemProperties.StopWatch>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

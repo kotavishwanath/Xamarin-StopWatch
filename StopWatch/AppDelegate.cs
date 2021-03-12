@@ -1,4 +1,4 @@
-﻿using Foundation;
+using Foundation;
 using UIKit;
 using System.Collections.Generic;
 using System;
@@ -8,7 +8,7 @@ namespace StopWatch
     // The UIApplicationDelegate for the application. This class is responsible for launching the
     // User Interface of the application, as well as listening (and optionally responding) to application events from iOS.
     [Register("AppDelegate")]
-    public class AppDelegate : UIResponder, IUIApplicationDelegate
+    public partial class AppDelegate : UIResponder, IUIApplicationDelegate
     {
         public static Dictionary<string, List<string>> carsInfoDataDelegate = new Dictionary<string, List<string>>();
         public static Dictionary<string, CarsInfo> selectedCarData = new Dictionary<string, CarsInfo>();
@@ -41,6 +41,13 @@ namespace StopWatch
             // Called when the user discards a scene session.
             // If any sessions were discarded while the application was not running, this will be called shortly after `FinishedLaunching`.
             // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
+        }
+
+        [Export("applicationWillTerminate:")]
+        public void WillTerminate(UIApplication application)
+        { 
+            NSUserDefaults.StandardUserDefaults.SetString ("applicationTermimnated", "AppState");
+            NSUserDefaults.StandardUserDefaults.Synchronize();
         }
     }
 }

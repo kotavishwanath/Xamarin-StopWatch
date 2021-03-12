@@ -4,16 +4,16 @@
 <dict>
 	<key>CFBundleDisplayName</key>
 	<string>StopWatch</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.racelogic-SW.co.uk.StopWatch</string>
+	<key>CFBundleExecutable</key>
+	<string>VBOXStopWatch</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>14.0</string>
+	<string>13.0</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Stopwatch app would like to access your camera</string>
 	<key>NSPhotoLibraryUsageDescription</key>
@@ -40,13 +40,10 @@
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
-		<integer>2</integer>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
-	<string>Main</string>
-	<key>UIMainStoryboardFile~ipad</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
@@ -56,14 +53,9 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.racelogic.vboxstpwatch</string>
 </dict>
 </plist>

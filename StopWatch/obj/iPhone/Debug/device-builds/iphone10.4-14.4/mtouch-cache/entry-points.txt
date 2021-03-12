@@ -1,0 +1,54 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/mscorlib.dll
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TOActivityCroppedImageProvider
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropOverlayView
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCroppedImageAttributes
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropScrollView
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropToolbar
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropView
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropViewController
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_TOCropViewControllerTransitioning
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/TOCropViewController.dll
+ObjectiveCClass=OBJC_CLASS_$_RSKImageScrollView
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/RSKImageCropper.dll
+ObjectiveCClass=OBJC_CLASS_$_RSKInternalUtility
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/RSKImageCropper.dll
+ObjectiveCClass=OBJC_CLASS_$_RSKTouchView
+	/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/mtouch-cache/1-Link/RSKImageCropper.dll
+Function=mono_pmip

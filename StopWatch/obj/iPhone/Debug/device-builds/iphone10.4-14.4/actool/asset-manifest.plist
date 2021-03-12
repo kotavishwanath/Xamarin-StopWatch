@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/bundle/Assets.car</string>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car3" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car8.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car8" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car5.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car5" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car2" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car7.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car7" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car6.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car6" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car4.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car4" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car8.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car8.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car8" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car7.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car7.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car7" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car4.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car4.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car4" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car2" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car5.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car5.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car5" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car6.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car6.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car6" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./car3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./car3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "car3" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

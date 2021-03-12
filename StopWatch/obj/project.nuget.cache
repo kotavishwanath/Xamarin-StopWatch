@@ -1,13 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "4ToobnBhubwMnrOF0cNjb1iynSbc/EgdewT0SJ/nd2gZBpZV6o26yGvNvxq83LU+/aGbZsP0phHd34SXJJFGvA==",
+  "dgSpecHash": "S0n3Zl7KYeCz7LrrdJf+L4K1u/UUfMM/TVQru18rUZEhdAGVKC1hS10crKLM4s0GOt+dB5gyTJZ2Lce0JW+OCQ==",
   "success": true,
-  "projectFilePath": "/Users/vishwanathkota/Projects/StopWatch/StopWatch/StopWatch.csproj",
+  "projectFilePath": "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj",
   "expectedPackageFiles": [
-    "/Users/vishwanathkota/.nuget/packages/rskimagecropper/2.2.1/rskimagecropper.2.2.1.nupkg.sha512",
-    "/Users/vishwanathkota/.nuget/packages/xamarians.cropimage/1.0.6/xamarians.cropimage.1.0.6.nupkg.sha512",
-    "/Users/vishwanathkota/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/vishwanathkota/.nuget/packages/xamarin.tocropview/1.2.0/xamarin.tocropview.1.2.0.nupkg.sha512"
+    "/Users/VishwanathKota/.nuget/packages/rskimagecropper/2.2.1/rskimagecropper.2.2.1.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/xamarians.cropimage/1.0.6/xamarians.cropimage.1.0.6.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/VishwanathKota/.nuget/packages/xamarin.tocropview/1.2.0/xamarin.tocropview.1.2.0.nupkg.sha512"
   ],
   "logs": []
 }

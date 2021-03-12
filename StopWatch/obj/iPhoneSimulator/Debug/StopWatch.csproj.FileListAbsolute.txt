@@ -13,3 +13,30 @@
 /Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csproj.CopyComplete
 /Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.exe
 /Users/vishwanathkota/Projects/StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.pdb
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/StopWatch.exe
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/StopWatch.pdb
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/RSKImageCropper.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarians.CropImage.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarians.CropImage.iOS.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/TOCropViewController.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csprojAssemblyReference.cache
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csproj.CoreCompileInputs.cache
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.csproj.CopyComplete
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.exe
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhoneSimulator/Debug/StopWatch.pdb
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/System.Buffers.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/System.Memory.dll
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll

@@ -17733,7 +17733,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 236,36,192,116,223,131,101,246,234,45,20,21,55,70,147,165
+	.byte 122,149,87,73,16,176,221,121,239,54,99,236,110,36,113,31
 	.globl _mono_aot_module_RSKImageCropper_info
 	.align 3
 _mono_aot_module_RSKImageCropper_info:

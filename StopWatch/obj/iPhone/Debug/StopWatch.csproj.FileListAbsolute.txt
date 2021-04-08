@@ -28,8 +28,6 @@
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/System.Buffers.dll
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/System.Memory.dll
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/System.Runtime.CompilerServices.Unsafe.dll
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/Xamarians.CropImage.dll
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/Xamarians.CropImage.iOS.dll
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/Xamarin.Essentials.dll
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/Xamarin.Essentials.pdb
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/TOCropViewController.dll
@@ -38,9 +36,9 @@
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/StopWatch.exe
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/StopWatch.pdb
 /Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/StopWatch.csprojAssemblyReference.cache
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/_PartialAppManifest.items
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/actool/_BundleResourceWithLogicalName.items
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/coremlc/_PartialAppManifest.items
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/device-builds/iphone10.4-14.4/optimized/
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/optimized/

@@ -10,7 +10,7 @@
 		</data>
 		<key>.DS_Store</key>
 		<data>
-		m6RTbSBRmT5BxiVAANCt+wWVp74=
+		XrsF0pORp8ScVO2fvnIsR0R1w+I=
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dt1qPsYRxHYyX636/+NWqGePfuw=
+		F0BDZuv+R/FV5uKCjSzvBDmLrt4=
 		</data>
 		<key>CropImageController.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>CustomCameraViewController.nib</key>
 		<data>
-		dwCj/D0QAtIVxAtmVcxBBRjlOS0=
+		QUxSHrU6JbUF3uKQcusGn4KySMc=
 		</data>
 		<key>Frameworks/RSKImageCropper.framework/Headers/CGGeometry+RSKImageCropper.h</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropper</key>
 		<data>
-		RrZ6v4jf+0fal43+s44P8GrE3Xw=
+		0YpXd9Tcwf7RI47V5+23utzKAj4=
 		</data>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropperStrings.bundle/ar.lproj/RSKImageCropper.strings</key>
 		<dict>
@@ -491,7 +491,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FULoDpdV8cK7tOGLSl9svvOuTPM=
+		IxKtDSGJ25/51wT3vvcWw2TgkFg=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -597,21 +597,17 @@
 		<data>
 		nrVMGKClE6pvxn6IcBgG4it6i0A=
 		</data>
-		<key>StopWatch</key>
-		<data>
-		zfK7u6sFODZah+qI9PTcDKBdXus=
-		</data>
 		<key>StopWatch.aotdata.arm64</key>
 		<data>
-		HdqpVkYAbeBslzygyrB67zMCtes=
+		i9w3kpu8wOWSVv/WP5vdDY0KTdo=
 		</data>
 		<key>StopWatch.exe</key>
 		<data>
-		dhPUfYRVbgFwGsK3FcfZ6l/iTUU=
+		nqrcgIVxh/UzukXOsGuXa5aTn9A=
 		</data>
 		<key>StopWatch.pdb</key>
 		<data>
-		hnjP1DfnE7D2ylN/NxEdRHtkJKU=
+		DIaa3RkMXukoogPfwVOgkUacV0k=
 		</data>
 		<key>System.Core.aotdata.arm64</key>
 		<data>
@@ -669,6 +665,10 @@
 		<data>
 		YJ9br1MU818xascy7u2mX0ZrMNc=
 		</data>
+		<key>VBOXStopWatch</key>
+		<data>
+		6xaUqB6MGCUp0C7489TQAPaQRHI=
+		</data>
 		<key>Xamarin.iOS.aotdata.arm64</key>
 		<data>
 		NuKgCByO2nj2bMCIx+I711aJmvc=
@@ -687,7 +687,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		21OXVKxGU5wFQqHQIANvfuhgtjI=
+		Zf6b2AvmPvfE3om8ZmPP4iL5wP0=
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
@@ -737,7 +737,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			szn4z6CxYNL6ZrFkTqvJj4tibr+Ly7dA02Gh8BxyGq0=
+			PfHOMToCdtsbEbWaPz/Jiq6ortsgKfyrIeDP+l/cQrs=
 			</data>
 		</dict>
 		<key>CropImageController.nib</key>
@@ -751,7 +751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e38WXE5/PJ1FYiFywWAoUQxfKvw1JuXoNgUSC8lfARw=
+			5ZiDWxilaobr1Q7qLTr6obmwKoeFbM6ejnK22YmPPjs=
 			</data>
 		</dict>
 		<key>Frameworks/RSKImageCropper.framework/Headers/CGGeometry+RSKImageCropper.h</key>
@@ -835,7 +835,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyJEI17V/PlCqWZL+eCZpILoH2jrhqvsfMeuc53lBII=
+			QRPOfffnmj2+rFzGoXJU7EyqkyScH+si1vAkiklfb3g=
 			</data>
 		</dict>
 		<key>Frameworks/RSKImageCropper.framework/RSKImageCropperStrings.bundle/ar.lproj/RSKImageCropper.strings</key>
@@ -1425,32 +1425,25 @@
 			zi1Y0A+tVNNfppRDjT3LpbeC+xDRJTirIvMQJ0HkgMQ=
 			</data>
 		</dict>
-		<key>StopWatch</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4WUUpzvPTB6UihPN3Z9AKUDijV3xQBTgPSudPjXk+a8=
-			</data>
-		</dict>
 		<key>StopWatch.aotdata.arm64</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/6wxk+h5rttwcxYZHbdnitH4g1w6IqMpW0nwuZ1UL4=
+			Z+l710iQ+TlDch+vfgArTcMpbQaYE0UJZ3v1Fd16cyk=
 			</data>
 		</dict>
 		<key>StopWatch.exe</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/6O6wZjEPSNbQAtOX8xk2+ZEew75RTIVjz5QonpW0EM=
+			+5iC5q5E/VM5jNhW676rjNlEPsXqooHTj8fI5CSlSW8=
 			</data>
 		</dict>
 		<key>StopWatch.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVGY6mOKnBUzKCJAPGas/BPkP/47QANNuRvQj3Udwrc=
+			HULvR3JNasWrPBYUqdHV1a+EfuS3YSLCnAh0rCdYC+8=
 			</data>
 		</dict>
 		<key>System.Core.aotdata.arm64</key>
@@ -1551,6 +1544,13 @@
 			rqBMAr7JMFwtAhv5kD6hhQ2kwp1YnY7r3psr/0EOeuM=
 			</data>
 		</dict>
+		<key>VBOXStopWatch</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G3xbUQeB8a65Qs8fS2ZkiajVxpP61cecAgD1KPM1/bc=
+			</data>
+		</dict>
 		<key>Xamarin.iOS.aotdata.arm64</key>
 		<dict>
 			<key>hash2</key>
@@ -1583,7 +1583,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U+4dS0mDgxjb9WtzxgjTEwj3FnRkKUi3fZ1oKmDWrWY=
+			A0F7ObfwXGCHUepsA98L/81NsIYVHAJKN1w+ew+6Hgw=
 			</data>
 		</dict>
 		<key>mscorlib.aotdata.arm64</key>

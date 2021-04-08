@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{149A6892-3025-4FEF-A672-DCE3130E7F30}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StopWatch/Controlls/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Projects/VBOXStopwatch/VBOXStopwatch/Controlls/ViewController.designer.cs">
     <Files>
-      <File FileName="StopWatch/Controlls/ViewController.cs" Line="265" Column="14" />
-      <File FileName="StopWatch/Models/CarsInfo.cs" />
-      <File FileName="StopWatch/Models/ImageTakenTime.cs" />
-      <File FileName="StopWatch/Main.cs" />
-      <File FileName="StopWatch/UserControlls/CarsListViewDataSource.cs" />
-      <File FileName="StopWatch/Info.plist" />
-      <File FileName="StopWatch/Controlls/SettingsViewController.cs" />
-      <File FileName="StopWatch/Views/CustomCameraViewController.cs" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/Controlls/ViewController.cs" Line="599" Column="42" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/Models/ImageTakenTime.cs" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/Main.cs" Line="12" Column="1" />
+      <File FileName="../../Downloads/Xamarin-DragAndDropDemo-master/DragAndDropDemo/MainActivity.cs" />
+      <File FileName="../../Downloads/Xamarin-DragAndDropDemo-master/DragAndDropDemo/Resources/layout/Main.axml" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/Models/CarsInfo.cs" Line="28" Column="23" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/UserControlls/CarsCustomCell.cs" Line="58" Column="75" />
+      <File FileName="StopWatch/Controlls/ViewController.cs" Line="1522" Column="10" />
+      <File FileName="StopWatch/Controlls/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="../../Projects/VBOXStopwatch/VBOXStopwatch/Controlls/ViewController.designer.cs" Line="23" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,14 +18,25 @@
           <Node name="StopWatch" expanded="True">
             <Node name="StopWatch" expanded="True">
               <Node name="Controlls" expanded="True">
-                <Node name="ViewController.cs" selected="True" />
+                <Node name="ViewController.cs" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="VBOXStopwatch" expanded="True">
+            <Node name="VBOXStopwatch" expanded="True">
+              <Node name="Controlls" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Resources" expanded="True" />
               <Node name="UserControlls" expanded="True" />
               <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -33,7 +46,17 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="112" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="116" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="46" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="47" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="194" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="223" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="233" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="175" column="1" />
+      <Breakpoint file="/Users/VishwanathKota/Projects/VBOXStopwatch/VBOXStopwatch/Views/CustomCameraViewController.cs" line="183" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

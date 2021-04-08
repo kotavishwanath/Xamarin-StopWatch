@@ -67526,7 +67526,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "E50C215F-C9BC-4C9E-A6E4-AD16B3835523"
+	.asciz "A9D4F029-E5EB-4C8B-9159-169740C4DA22"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -67620,7 +67620,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 248,41,228,213,72,241,67,73,117,91,58,0,124,177,185,130
+	.byte 160,71,83,147,161,48,219,90,29,82,190,138,128,47,198,76
 	.globl _mono_aot_module_StopWatch_info
 	.align 3
 _mono_aot_module_StopWatch_info:

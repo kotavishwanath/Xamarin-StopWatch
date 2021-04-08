@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S0n3Zl7KYeCz7LrrdJf+L4K1u/UUfMM/TVQru18rUZEhdAGVKC1hS10crKLM4s0GOt+dB5gyTJZ2Lce0JW+OCQ==",
+  "dgSpecHash": "oo27LPqvz4kP91EkEeNeC99fdmTvthC3I8W72JnLJdWdvSgd6GHEGN7rCj5kCQvtfDtNzhztBfB9r3t3XbL9vQ==",
   "success": true,
   "projectFilePath": "/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/StopWatch.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,6 @@
     "/Users/VishwanathKota/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/VishwanathKota/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/VishwanathKota/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "/Users/VishwanathKota/.nuget/packages/xamarians.cropimage/1.0.6/xamarians.cropimage.1.0.6.nupkg.sha512",
     "/Users/VishwanathKota/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/VishwanathKota/.nuget/packages/xamarin.tocropview/1.2.0/xamarin.tocropview.1.2.0.nupkg.sha512"
   ],

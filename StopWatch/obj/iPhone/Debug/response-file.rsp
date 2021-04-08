@@ -5,9 +5,9 @@
 --cache=/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/obj/iPhone/Debug/mtouch-cache
 --root-assembly=/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/StopWatch.exe
 --sdkroot=/Applications/Xcode.app/Contents/Developer
---targetver=13.0
+--targetver=11.1
 --dev=/Users/VishwanathKota/Documents/Xamarin-StopWatch/StopWatch/bin/iPhone/Debug/StopWatch.app
---executable=VBOXStopWatch
+--executable=StopWatch
 --linksdkonly
 --sdk=14.4
 --aot-options=-O=-float32
@@ -172,7 +172,5 @@
 --reference=/Users/VishwanathKota/.nuget/packages/system.buffers/4.4.0/lib/netstandard2.0/System.Buffers.dll
 --reference=/Users/VishwanathKota/.nuget/packages/system.memory/4.5.3/lib/netstandard2.0/System.Memory.dll
 --reference=/Users/VishwanathKota/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
---reference=/Users/VishwanathKota/.nuget/packages/xamarians.cropimage/1.0.6/lib/Xamarin.iOS10/Xamarians.CropImage.dll
---reference=/Users/VishwanathKota/.nuget/packages/xamarians.cropimage/1.0.6/lib/Xamarin.iOS10/Xamarians.CropImage.iOS.dll
 --reference=/Users/VishwanathKota/.nuget/packages/xamarin.essentials/1.5.3.2/lib/xamarinios10/Xamarin.Essentials.dll
 --reference=/Users/VishwanathKota/.nuget/packages/xamarin.tocropview/1.2.0/lib/xamarinios10/TOCropViewController.dll

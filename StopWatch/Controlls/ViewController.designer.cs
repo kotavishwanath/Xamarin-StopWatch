@@ -1,86 +1,144 @@
 ﻿// WARNING
 //
-// This file has been generated automatically by Visual Studio from the outlets and
-// actions declared in your storyboard file.
-// Manual changes to this file will not be maintained.
+// This file has been generated automatically by Visual Studio to store outlets and
+// actions made in the UI designer. If it is removed, they will be lost.
+// Manual changes to this file may not be handled correctly.
 //
 using Foundation;
-using System;
 using System.CodeDom.Compiler;
-using UIKit;
 
-namespace StopWatch
+namespace VBOXStopwatch
 {
-    [Register ("ViewController")]
-    partial class ViewController
-    {
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UITableView CarsListView { get; set; }
+	[Register("ViewController")]
+	partial class ViewController
+	{
+		[Outlet]
+		UIKit.UIView bottomView { get; set; }
 
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIScrollView ImagesScrlView { get; set; }
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UITableView CarsListView { get; set; }
 
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton lapButtonClicked { get; set; }
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UIScrollView ImagesScrlView { get; set; }
 
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton settingsButton { get; set; }
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UIButton lapButtonClicked { get; set; }
 
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIView topView { get; set; }
+		[Outlet]
+		UIKit.UIButton oneMoreLapsButton { get; set; }
 
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton undoRedoButton { get; set; }
+		[Outlet]
+		UIKit.UIButton refreshButton { get; set; }
 
-        [Action ("LapButtonClicked_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void LapButtonClicked_TouchUpInside (UIKit.UIButton sender);
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UIButton settingsButton { get; set; }
 
-        [Action ("SettingsButton_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void SettingsButton_TouchUpInside (UIKit.UIButton sender);
+		[Outlet]
+		UIKit.UIView showHideView { get; set; }
 
-        [Action ("UndoRedoButton_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void UndoRedoButton_TouchUpInside (UIKit.UIButton sender);
+		[Outlet]
+		UIKit.UIButton stopButtonClicked { get; set; }
 
-        void ReleaseDesignerOutlets ()
-        {
-            if (CarsListView != null) {
-                CarsListView.Dispose ();
-                CarsListView = null;
-            }
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UIView topView { get; set; }
 
-            if (ImagesScrlView != null) {
-                ImagesScrlView.Dispose ();
-                ImagesScrlView = null;
-            }
+		[Outlet]
+		[GeneratedCode("iOS Designer", "1.0")]
+		UIKit.UIButton undoRedoButton { get; set; }
 
-            if (lapButtonClicked != null) {
-                lapButtonClicked.Dispose ();
-                lapButtonClicked = null;
-            }
+		[Action("deleteAllButton:")]
+		partial void deleteAllButton(Foundation.NSObject sender);
 
-            if (settingsButton != null) {
-                settingsButton.Dispose ();
-                settingsButton = null;
-            }
+		[Action("LapButtonClicked_TouchUpInside:")]
+		partial void LapButtonClicked_TouchUpInside(UIKit.UIButton sender);
 
-            if (topView != null) {
-                topView.Dispose ();
-                topView = null;
-            }
+		[Action("OneMoreLapsButtonAction:")]
+		partial void OneMoreLapsButtonAction(Foundation.NSObject sender);
 
-            if (undoRedoButton != null) {
-                undoRedoButton.Dispose ();
-                undoRedoButton = null;
-            }
-        }
-    }
+		[Action("refreshButtonClicked:")]
+		partial void refreshButtonClicked(Foundation.NSObject sender);
+
+		[Action("SettingsButton_TouchUpInside:")]
+		partial void SettingsButton_TouchUpInside(UIKit.UIButton sender);
+
+		[Action("stopButtonAction:")]
+		partial void stopButtonAction(Foundation.NSObject sender);
+
+		[Action("UndoRedoButton_TouchUpInside:")]
+		partial void UndoRedoButton_TouchUpInside(UIKit.UIButton sender);
+
+		void ReleaseDesignerOutlets()
+		{
+			if (bottomView != null)
+			{
+				bottomView.Dispose();
+				bottomView = null;
+			}
+
+			if (CarsListView != null)
+			{
+				CarsListView.Dispose();
+				CarsListView = null;
+			}
+
+			if (ImagesScrlView != null)
+			{
+				ImagesScrlView.Dispose();
+				ImagesScrlView = null;
+			}
+
+			if (lapButtonClicked != null)
+			{
+				lapButtonClicked.Dispose();
+				lapButtonClicked = null;
+			}
+
+			if (oneMoreLapsButton != null)
+			{
+				oneMoreLapsButton.Dispose();
+				oneMoreLapsButton = null;
+			}
+
+			if (refreshButton != null)
+			{
+				refreshButton.Dispose();
+				refreshButton = null;
+			}
+
+			if (settingsButton != null)
+			{
+				settingsButton.Dispose();
+				settingsButton = null;
+			}
+
+			if (showHideView != null)
+			{
+				showHideView.Dispose();
+				showHideView = null;
+			}
+
+			if (stopButtonClicked != null)
+			{
+				stopButtonClicked.Dispose();
+				stopButtonClicked = null;
+			}
+
+			if (topView != null)
+			{
+				topView.Dispose();
+				topView = null;
+			}
+
+			if (undoRedoButton != null)
+			{
+				undoRedoButton.Dispose();
+				undoRedoButton = null;
+			}
+		}
+	}
 }

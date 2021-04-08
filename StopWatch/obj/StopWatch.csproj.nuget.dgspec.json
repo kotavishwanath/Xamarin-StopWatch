@@ -36,10 +36,6 @@
               "target": "Package",
               "version": "[2.2.1, )"
             },
-            "Xamarians.CropImage": {
-              "target": "Package",
-              "version": "[1.0.6, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
